@@ -31,7 +31,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pytz beautifulsoup4
+          pip install requests pytz beautifulsoup4 playwright
+      - name: Install Playwright browsers
+        run: |
+          playwright install --with-deps chromium
+      - name: Clean existing JSON
+        run: |
+          rm -f daddyliveSchedule.json
 
       - name: Clean existing JSON
         run: |
