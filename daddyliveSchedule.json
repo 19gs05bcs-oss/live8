@@ -1,5 +1,49 @@
 {
     "Wednesday 12th Aug 2026": {
+        "PPV Events": [
+            {
+                "event": "\ud83c\udfce\ufe0f Hasty Bake High Limit Room Knoxville",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "110",
+                        "channel_href": "/watch.php?id=110",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfce\ufe0f Tekton 250 Battle Berlin",
+                "time": "21:00",
+                "time_visible": "21:00",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151",
+                        "channel_href": "/watch.php?id=151",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            },
+            {
+                "event": "\ud83c\udfce\ufe0f Nos Energy Knoxville Nationals",
+                "time": "22:00",
+                "time_visible": "22:00",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152",
+                        "channel_href": "/watch.php?id=152",
+                        "channel_title": "FloRacing",
+                        "data_ch": "floracing"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 1",
@@ -732,6 +776,20 @@
                         "channel_href": "/watch.php?id=3032",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004",
+                        "channel_href": "/watch.php?id=2004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7063",
+                        "channel_href": "/watch.php?id=7063",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -753,6 +811,13 @@
                         "channel_href": "/watch.php?id=3031",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005",
+                        "channel_href": "/watch.php?id=2005",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -816,6 +881,13 @@
                         "channel_href": "/watch.php?id=4105",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006",
+                        "channel_href": "/watch.php?id=2006",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -830,6 +902,13 @@
                         "channel_href": "/watch.php?id=69",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007",
+                        "channel_href": "/watch.php?id=2007",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -865,6 +944,13 @@
                         "channel_href": "/watch.php?id=3081",
                         "channel_title": "Fox Sports 1 USA",
                         "data_ch": "fox sports 1 usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008",
+                        "channel_href": "/watch.php?id=2008",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -886,6 +972,13 @@
                         "channel_href": "/watch.php?id=3035",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009",
+                        "channel_href": "/watch.php?id=2009",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -907,6 +1000,13 @@
                         "channel_href": "/watch.php?id=3034",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010",
+                        "channel_href": "/watch.php?id=2010",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -1128,6 +1228,13 @@
                         "channel_href": "/watch.php?id=365",
                         "channel_title": "RTE 2 Ireland",
                         "data_ch": "rte 2 ireland"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019",
+                        "channel_href": "/watch.php?id=7019",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sky Sport Austria 1",
@@ -1464,6 +1571,20 @@
                         "channel_href": "/watch.php?id=2026",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4004",
+                        "channel_href": "/watch.php?id=4004",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025",
+                        "channel_href": "/watch.php?id=7025",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -1494,6 +1615,13 @@
                         "channel_href": "/watch.php?id=771",
                         "channel_title": "Premier Sports 1 Ireland",
                         "data_ch": "premier sports 1 ireland"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sport TV2 Portugal",
@@ -1554,6 +1682,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\udde9\ud83c\uddea World Club Friendly Games : FSV Frankfurt \ud83c\udde9\ud83c\uddea vs Eintracht Frankfurt \ud83c\udde9\ud83c\uddea",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\udff4\ud83c\uddee\ud83c\uddf9 Club Friendly: Arsenal \ud83c\udff4 vs Como \ud83c\uddee\ud83c\uddf9",
                 "time": "18:30",
                 "time_visible": "18:30",
@@ -1564,6 +1706,13 @@
                         "channel_href": "/watch.php?id=50",
                         "channel_title": "Polsat Sport 2 Poland",
                         "data_ch": "polsat sport 2 poland"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7017",
+                        "channel_href": "/watch.php?id=7017",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Abu Dhabi Sports 1",
@@ -1634,6 +1783,13 @@
                         "channel_href": "/watch.php?id=4112",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4002",
+                        "channel_href": "/watch.php?id=4002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1676,6 +1832,13 @@
                         "channel_href": "/watch.php?id=799",
                         "channel_title": "Premier Sports 2 Ireland",
                         "data_ch": "premier sports 2 ireland"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7016",
+                        "channel_href": "/watch.php?id=7016",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sport TV1 Portugal",
@@ -1753,6 +1916,13 @@
                         "channel_href": "/watch.php?id=2024",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4001",
+                        "channel_href": "/watch.php?id=4001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1767,6 +1937,13 @@
                         "channel_href": "/watch.php?id=558",
                         "channel_title": "Sky Sport Bundesliga 1",
                         "data_ch": "sky sport bundesliga 1"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014",
+                        "channel_href": "/watch.php?id=7014",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sky Sport Top Event DE",
@@ -1830,6 +2007,13 @@
                         "channel_href": "/watch.php?id=19",
                         "channel_title": "TV Galicia",
                         "data_ch": "tv galicia"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018",
+                        "channel_href": "/watch.php?id=7018",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -1914,6 +2098,13 @@
                         "channel_href": "/watch.php?id=2027",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4003",
+                        "channel_href": "/watch.php?id=4003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -1928,6 +2119,13 @@
                         "channel_href": "/watch.php?id=638",
                         "channel_title": "Nova Sports Prime Greece",
                         "data_ch": "nova sports prime greece"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -2060,6 +2258,34 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf5\ud83c\uddfe Paraguay Copa Paraguay : 29 de Setiembre FBC \ud83c\uddf5\ud83c\uddfe vs Sportivo San Lorenzo \ud83c\uddf5\ud83c\uddfe",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009",
+                        "channel_href": "/watch.php?id=7009",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddec\ud83c\uddf7 Greece Super Cup : AEK Athens \ud83c\uddec\ud83c\uddf7 vs OFI Crete \ud83c\uddec\ud83c\uddf7",
+                "time": "17:00",
+                "time_visible": "17:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011",
+                        "channel_href": "/watch.php?id=7011",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\udde9\ud83c\uddff\ud83c\uddf2\ud83c\uddfc Women's Africa Cup of Nations: Algeria \ud83c\udde9\ud83c\uddff vs Malawi \ud83c\uddf2\ud83c\uddfc",
                 "time": "17:00",
                 "time_visible": "17:00",
@@ -2077,6 +2303,13 @@
                         "channel_href": "/watch.php?id=398",
                         "channel_title": "Ziggo Sport 2 NL",
                         "data_ch": "ziggo sport 2 nl"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010",
+                        "channel_href": "/watch.php?id=7010",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Arryadia TNT",
@@ -2112,6 +2345,41 @@
                         "channel_href": "/watch.php?id=418",
                         "channel_title": "SuperSport Variety 3",
                         "data_ch": "supersport variety 3"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020",
+                        "channel_href": "/watch.php?id=7020",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Milford FC \ud83c\uddff\ud83c\udde6 vs Siwelele FC \ud83c\uddff\ud83c\udde6",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Premiership : Durban City FC \ud83c\uddff\ud83c\udde6 vs Lamontville Golden Arrows \ud83c\uddff\ud83c\udde6",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013",
+                        "channel_href": "/watch.php?id=7013",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -2126,6 +2394,34 @@
                         "channel_href": "/watch.php?id=413",
                         "channel_title": "SuperSport PSL",
                         "data_ch": "supersport psl"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7021",
+                        "channel_href": "/watch.php?id=7021",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Community Shield : Young Africans SC \ud83c\uddf9\ud83c\uddff vs Simba SC \ud83c\uddf9\ud83c\uddff",
+                "time": "17:30",
+                "time_visible": "17:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7022",
+                        "channel_href": "/watch.php?id=7022",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -2140,6 +2436,27 @@
                         "channel_href": "/watch.php?id=540",
                         "channel_title": "Canal 11 Portugal",
                         "data_ch": "canal 11 portugal"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Paraguay Copa Paraguay : Sportivo Ite\u00f1o vs Guaran\u00ed",
+                "time": "19:30",
+                "time_visible": "19:30",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7027",
+                        "channel_href": "/watch.php?id=7027",
+                        "channel_title": "Soccer Stream",
+                        "data_ch": "soccer stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051",
+                        "channel_href": "/watch.php?id=7051",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2196,6 +2513,13 @@
                         "channel_href": "/watch.php?id=146",
                         "channel_title": "5 Live Israel",
                         "data_ch": "5 live israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026",
+                        "channel_href": "/watch.php?id=7026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2238,6 +2562,20 @@
                         "channel_href": "/watch.php?id=4113",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057",
+                        "channel_href": "/watch.php?id=7057",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058",
+                        "channel_href": "/watch.php?id=7058",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2266,6 +2604,20 @@
                         "channel_href": "/watch.php?id=3084",
                         "channel_title": "ESPN2 Argentina",
                         "data_ch": "espn2 argentina"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059",
+                        "channel_href": "/watch.php?id=7059",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7060",
+                        "channel_href": "/watch.php?id=7060",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2294,6 +2646,20 @@
                         "channel_href": "/watch.php?id=3038",
                         "channel_title": "beIN SPORTS Xtra",
                         "data_ch": "bein sports xtra"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055",
+                        "channel_href": "/watch.php?id=7055",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056",
+                        "channel_href": "/watch.php?id=7056",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2420,6 +2786,27 @@
                         "channel_href": "/watch.php?id=4118",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052",
+                        "channel_href": "/watch.php?id=7052",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053",
+                        "channel_href": "/watch.php?id=7053",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054",
+                        "channel_href": "/watch.php?id=7054",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -2434,6 +2821,27 @@
                         "channel_href": "/watch.php?id=746",
                         "channel_title": "TyC Sports Argentina",
                         "data_ch": "tyc sports argentina"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7061",
+                        "channel_href": "/watch.php?id=7061",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7062",
+                        "channel_href": "/watch.php?id=7062",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7030",
+                        "channel_href": "/watch.php?id=7030",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -5052,6 +5460,13 @@
                         "channel_href": "/watch.php?id=1580",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             },
@@ -5122,6 +5537,20 @@
                         "channel_href": "/watch.php?id=1585",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             },
@@ -5136,6 +5565,13 @@
                         "channel_href": "/watch.php?id=1586",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             },
@@ -5148,6 +5584,20 @@
                         "channel_name": "Tennis Stream",
                         "channel_id": "1587",
                         "channel_href": "/watch.php?id=1587",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
                     }
@@ -5196,6 +5646,13 @@
                         "channel_href": "/watch.php?id=830",
                         "channel_title": "Fox Sports Premium MX",
                         "data_ch": "fox sports premium mx"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011",
+                        "channel_href": "/watch.php?id=2011",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -5552,6 +6009,13 @@
                         "channel_href": "/watch.php?id=145",
                         "channel_title": "5Sport plus Israel",
                         "data_ch": "5sport plus israel"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028",
+                        "channel_href": "/watch.php?id=7028",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5765,6 +6229,13 @@
                         "channel_href": "/watch.php?id=829",
                         "channel_title": "MASN USA",
                         "data_ch": "masn usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4015",
+                        "channel_href": "/watch.php?id=4015",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5800,6 +6271,13 @@
                         "channel_href": "/watch.php?id=640",
                         "channel_title": "SPORT1+ DE",
                         "data_ch": "sport1+ de"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4016",
+                        "channel_href": "/watch.php?id=4016",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5821,6 +6299,13 @@
                         "channel_href": "/watch.php?id=755",
                         "channel_title": "NBCS California USA",
                         "data_ch": "nbcs california usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4017",
+                        "channel_href": "/watch.php?id=4017",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5835,6 +6320,13 @@
                         "channel_href": "/watch.php?id=14",
                         "channel_title": "MLB League Pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4018",
+                        "channel_href": "/watch.php?id=4018",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5863,6 +6355,13 @@
                         "channel_href": "/watch.php?id=921",
                         "channel_title": "Space City Home Network",
                         "data_ch": "space city home network"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4019",
+                        "channel_href": "/watch.php?id=4019",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5884,6 +6383,13 @@
                         "channel_href": "/watch.php?id=399",
                         "channel_title": "MLB Network USA",
                         "data_ch": "mlb network usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4020",
+                        "channel_href": "/watch.php?id=4020",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5898,6 +6404,13 @@
                         "channel_href": "/watch.php?id=2",
                         "channel_title": "MLB League Pass",
                         "data_ch": "mlb league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4021",
+                        "channel_href": "/watch.php?id=4021",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5919,6 +6432,13 @@
                         "channel_href": "/watch.php?id=922",
                         "channel_title": "SportsNet Pittsburgh",
                         "data_ch": "sportsnet pittsburgh"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4022",
+                        "channel_href": "/watch.php?id=4022",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -5940,6 +6460,13 @@
                         "channel_href": "/watch.php?id=770",
                         "channel_title": "Marquee Sports Network",
                         "data_ch": "marquee sports network"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4023",
+                        "channel_href": "/watch.php?id=4023",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6003,6 +6530,13 @@
                         "channel_href": "/watch.php?id=16",
                         "channel_title": "Arena 4 Premium Serbia",
                         "data_ch": "arena 4 premium serbia"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024",
+                        "channel_href": "/watch.php?id=4024",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6031,6 +6565,13 @@
                         "channel_href": "/watch.php?id=407",
                         "channel_title": "Sportsnet West",
                         "data_ch": "sportsnet west"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025",
+                        "channel_href": "/watch.php?id=4025",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6052,6 +6593,13 @@
                         "channel_href": "/watch.php?id=759",
                         "channel_title": "SportsNet New York USA",
                         "data_ch": "sportsnet new york usa"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026",
+                        "channel_href": "/watch.php?id=4026",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6073,6 +6621,13 @@
                         "channel_href": "/watch.php?id=776",
                         "channel_title": "Chicago Sports Network",
                         "data_ch": "chicago sports network"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027",
+                        "channel_href": "/watch.php?id=4027",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6101,6 +6656,13 @@
                         "channel_href": "/watch.php?id=375",
                         "channel_title": "ESPN Deportes",
                         "data_ch": "espn deportes"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028",
+                        "channel_href": "/watch.php?id=4028",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6122,6 +6684,13 @@
                         "channel_href": "/watch.php?id=764",
                         "channel_title": "Spectrum Sportsnet LA",
                         "data_ch": "spectrum sportsnet la"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029",
+                        "channel_href": "/watch.php?id=4029",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -6203,6 +6772,20 @@
                         "channel_href": "/watch.php?id=3033",
                         "channel_title": "MLS Season Pass",
                         "data_ch": "mls season pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070",
+                        "channel_href": "/watch.php?id=4070",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001",
+                        "channel_href": "/watch.php?id=2001",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6238,6 +6821,20 @@
                         "channel_href": "/watch.php?id=3010",
                         "channel_title": "USA Network",
                         "data_ch": "usa network"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071",
+                        "channel_href": "/watch.php?id=4071",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002",
+                        "channel_href": "/watch.php?id=2002",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
@@ -6252,6 +6849,20 @@
                         "channel_href": "/watch.php?id=13",
                         "channel_title": "WNBA League Pass",
                         "data_ch": "wnba league pass"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072",
+                        "channel_href": "/watch.php?id=4072",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003",
+                        "channel_href": "/watch.php?id=2003",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             }
@@ -6700,6 +7311,13 @@
                         "channel_href": "/watch.php?id=265",
                         "channel_title": "M4 Sport Hungary",
                         "data_ch": "m4 sport hungary"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028",
+                        "channel_href": "/watch.php?id=7028",
+                        "channel_title": "Backup Stream",
+                        "data_ch": "backup stream"
                     }
                 ]
             },
