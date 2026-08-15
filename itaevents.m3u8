@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="🏁 🇺🇸 AMA Supercross Championship - New Berlin 🇺🇸" tvg-name="16:00 🏁 🇺🇸 AMA Supercross Championship : New Berlin 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=201&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🏁 🇺🇸 USAC Road Racing - Road America 🇺🇸" tvg-name="17:00 🏁 🇺🇸 USAC Road Racing : Road America 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=202&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🏁 🇺🇸 MotoAmerica Superbikes - Virginia Raceway 🇺🇸" tvg-name="18:00 🏁 🇺🇸 MotoAmerica Superbikes : Virginia Raceway 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=203&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🥋 🇺🇸 Submission Hunter Pro 104 🇺🇸 - 🥋 🇺🇸 Submission Hunter Pro 104 🇺🇸" tvg-name="19:00 🥋 🇺🇸 Submission Hunter Pro 104 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", UFC Fight Pass
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=204&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="📺 Big Brother 👁️ 28 Live Feeds Cam 1 - 📺 Big Brother 👁️ 28 Live Feeds Cam 1" tvg-name="20:30 📺 Big Brother 👁️ 28 Live Feeds Cam 1 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 👁️ 28 LIVE CAMERA FEEDS", BB Cam Live
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=891&redirect_stream=true&api_password=Milito22.
 
@@ -119,8 +131,14 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Bristol City 🏴 vs Millwall 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Bristol City 🏴 vs Millwall 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3031&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Bristol City 🏴 vs Millwall 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Bristol City 🏴 vs Millwall 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7012&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Charlton Athletic 🏴 vs Derby County 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Charlton Athletic 🏴 vs Derby County 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=69&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Charlton Athletic 🏴 vs Derby County 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Charlton Athletic 🏴 vs Derby County 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7011&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Charlton Athletic 🏴 vs Derby County 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Charlton Athletic 🏴 vs Derby County 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", V Sport 1 Sweden
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3079&redirect_stream=true&api_password=Milito22.
@@ -131,17 +149,26 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Norwich City 🏴 vs West Bromwich Albion 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Norwich City 🏴 vs West Bromwich Albion 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3032&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Norwich City 🏴 vs West Bromwich Albion 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Norwich City 🏴 vs West Bromwich Albion 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7009&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Portsmouth 🏴 vs Queens Park Rangers 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Portsmouth 🏴 vs Queens Park Rangers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=77&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Portsmouth 🏴 vs Queens Park Rangers 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Portsmouth 🏴 vs Queens Park Rangers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3033&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Portsmouth 🏴 vs Queens Park Rangers 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Portsmouth 🏴 vs Queens Park Rangers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7008&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Stoke City 🏴 vs Swansea City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Stoke City 🏴 vs Swansea City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=86&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Stoke City 🏴 vs Swansea City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Stoke City 🏴 vs Swansea City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3034&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Stoke City 🏴 vs Swansea City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Stoke City 🏴 vs Swansea City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7007&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Oxford United 🏴 vs Milton Keynes Dons 🏴" tvg-name="13:30 ⚽ 🏴 England - League One : Oxford United 🏴 vs Milton Keynes Dons 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=105&redirect_stream=true&api_password=Milito22.
@@ -152,29 +179,56 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Barnsley 🏴 vs Bromley 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Barnsley 🏴 vs Bromley 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=107&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Barnsley 🏴 vs Bromley 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Barnsley 🏴 vs Bromley 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7031&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Blackpool 🏴 vs Wycombe Wanderers 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Blackpool 🏴 vs Wycombe Wanderers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=108&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Blackpool 🏴 vs Wycombe Wanderers 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Blackpool 🏴 vs Wycombe Wanderers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7030&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Bradford City 🏴 vs Peterborough United 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Bradford City 🏴 vs Peterborough United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=109&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Bradford City 🏴 vs Peterborough United 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Bradford City 🏴 vs Peterborough United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7028&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Burton Albion 🏴 vs Stevenage 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Burton Albion 🏴 vs Stevenage 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=110&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Burton Albion 🏴 vs Stevenage 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Burton Albion 🏴 vs Stevenage 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7027&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Cambridge United 🏴 vs Wigan Athletic 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Cambridge United 🏴 vs Wigan Athletic 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=151&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Cambridge United 🏴 vs Wigan Athletic 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Cambridge United 🏴 vs Wigan Athletic 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7017&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Huddersfield Town 🏴 vs AFC Wimbledon 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Huddersfield Town 🏴 vs AFC Wimbledon 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=152&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Huddersfield Town 🏴 vs AFC Wimbledon 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Huddersfield Town 🏴 vs AFC Wimbledon 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7016&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Leyton Orient 🏴 vs Sheffield Wednesday 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Leyton Orient 🏴 vs Sheffield Wednesday 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=153&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Leyton Orient 🏴 vs Sheffield Wednesday 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Leyton Orient 🏴 vs Sheffield Wednesday 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7015&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Mansfield Town 🏴 vs Doncaster Rovers 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Mansfield Town 🏴 vs Doncaster Rovers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=154&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Mansfield Town 🏴 vs Doncaster Rovers 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Mansfield Town 🏴 vs Doncaster Rovers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7014&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Plymouth Argyle 🏴 vs Stockport County 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Plymouth Argyle 🏴 vs Stockport County 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=155&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League One - Plymouth Argyle 🏴 vs Stockport County 🏴" tvg-name="16:00 ⚽ 🏴 England - League One : Plymouth Argyle 🏴 vs Stockport County 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7013&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Newport County 🏴 vs Rochdale 🏴" tvg-name="13:30 ⚽ 🏴 England - League Two : Newport County 🏴 vs Rochdale 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=156&redirect_stream=true&api_password=Milito22.
@@ -188,29 +242,56 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Accrington Stanley 🏴 vs Colchester United 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Accrington Stanley 🏴 vs Colchester United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=158&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Accrington Stanley 🏴 vs Colchester United 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Accrington Stanley 🏴 vs Colchester United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7041&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Barnet 🏴 vs Salford City 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Barnet 🏴 vs Salford City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=159&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Barnet 🏴 vs Salford City 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Barnet 🏴 vs Salford City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7040&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Cheltenham Town 🏴 vs Rotherham United 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Cheltenham Town 🏴 vs Rotherham United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=160&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Cheltenham Town 🏴 vs Rotherham United 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Cheltenham Town 🏴 vs Rotherham United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7039&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Chesterfield 🏴 vs Fleetwood Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Chesterfield 🏴 vs Fleetwood Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=161&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Chesterfield 🏴 vs Fleetwood Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Chesterfield 🏴 vs Fleetwood Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7038&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Crawley Town 🏴 vs Crewe Alexandra 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Crawley Town 🏴 vs Crewe Alexandra 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=162&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Crawley Town 🏴 vs Crewe Alexandra 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Crawley Town 🏴 vs Crewe Alexandra 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7037&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Gillingham 🏴 vs Walsall 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Gillingham 🏴 vs Walsall 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=163&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Gillingham 🏴 vs Walsall 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Gillingham 🏴 vs Walsall 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7036&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Grimsby Town 🏴 vs Exeter City 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Grimsby Town 🏴 vs Exeter City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=164&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Grimsby Town 🏴 vs Exeter City 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Grimsby Town 🏴 vs Exeter City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7035&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Northampton Town 🏴 vs Swindon Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Northampton Town 🏴 vs Swindon Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=165&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Northampton Town 🏴 vs Swindon Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Northampton Town 🏴 vs Swindon Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7034&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Tranmere Rovers 🏴 vs Shrewsbury Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Tranmere Rovers 🏴 vs Shrewsbury Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=166&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - Tranmere Rovers 🏴 vs Shrewsbury Town 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : Tranmere Rovers 🏴 vs Shrewsbury Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7033&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - National League - Aldershot Town 🏴 vs Hartlepool United 🏴" tvg-name="16:00 ⚽ 🏴 England - National League : Aldershot Town 🏴 vs Hartlepool United 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - National League ⚽", DAZN USA
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=167&redirect_stream=true&api_password=Milito22.
@@ -268,6 +349,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🇺🇸 United States - USL Championship - Colorado Springs 🇺🇸 vs Birmingham Legion 🇺🇸" tvg-name="03:00 ⚽ 🇺🇸 United States - USL Championship : Colorado Springs 🇺🇸 vs Birmingham Legion 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="USL Soccer ⚽", ESPN+ USA
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=77&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇺🇸 United States - USL Championship - Colorado Springs 🇺🇸 vs Birmingham Legion 🇺🇸" tvg-name="03:00 ⚽ 🇺🇸 United States - USL Championship : Colorado Springs 🇺🇸 vs Birmingham Legion 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="USL Soccer ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7006&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇺🇸 United States - USL Championship - San Antonio 🇺🇸 vs El Paso Locomotive 🇺🇸" tvg-name="03:00 ⚽ 🇺🇸 United States - USL Championship : San Antonio 🇺🇸 vs El Paso Locomotive 🇺🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="USL Soccer ⚽", ESPN2 Mexico
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=926&redirect_stream=true&api_password=Milito22.
@@ -437,8 +521,17 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇹🇿 Tanzania Ligi Kuu Bara - Polisi Tanzania 🇹🇿 vs Azam FC 🇹🇿" tvg-name="15:00 ⚽ 🇹🇿 Tanzania Ligi Kuu Bara : Polisi Tanzania 🇹🇿 vs Azam FC 🇹🇿 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7029&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - 1. FSV Mainz 05 vs Bournemouth" tvg-name="15:30 ⚽ 🌍 Club Friendly : 1. FSV Mainz 05 vs Bournemouth - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7000&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Union Berlin 🇩🇪 vs Ipswich Town 🏴" tvg-name="15:30 ⚽ 🌍 Club Friendly : Union Berlin 🇩🇪 vs Ipswich Town 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7002&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Bayern München 🇩🇪 vs RB Leipzig 🇩🇪" tvg-name="15:30 ⚽ 🌍 Club Friendly : Bayern München 🇩🇪 vs RB Leipzig 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Magenta Sport 308
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=2&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Bayern München 🇩🇪 vs RB Leipzig 🇩🇪" tvg-name="15:30 ⚽ 🌍 Club Friendly : Bayern München 🇩🇪 vs RB Leipzig 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7004&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Bayern München 🇩🇪 vs RB Leipzig 🇩🇪" tvg-name="15:30 ⚽ 🌍 Club Friendly : Bayern München 🇩🇪 vs RB Leipzig 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Abu Dhabi Sports 1
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=600&redirect_stream=true&api_password=Milito22.
@@ -451,6 +544,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Bayern München 🇩🇪 vs RB Leipzig 🇩🇪" tvg-name="15:30 ⚽ 🌍 Club Friendly : Bayern München 🇩🇪 vs RB Leipzig 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=4103&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Borussia M'gladbach 🇩🇪 vs Aston Villa 🏴" tvg-name="15:30 ⚽ 🌍 Club Friendly : Borussia M'gladbach 🇩🇪 vs Aston Villa 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7003&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Borussia M'gladbach 🇩🇪 vs Aston Villa 🏴" tvg-name="15:30 ⚽ 🌍 Club Friendly : Borussia M'gladbach 🇩🇪 vs Aston Villa 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Sport1 DE
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=641&redirect_stream=true&api_password=Milito22.
@@ -476,6 +572,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brentford 🏴 vs Eintracht Frankfurt 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brentford 🏴 vs Eintracht Frankfurt 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Sport TV4 Portugal
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=289&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brentford 🏴 vs Eintracht Frankfurt 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brentford 🏴 vs Eintracht Frankfurt 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7054&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brentford 🏴 vs Eintracht Frankfurt 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brentford 🏴 vs Eintracht Frankfurt 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", ESPN4 Brazil
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=85&redirect_stream=true&api_password=Milito22.
 
@@ -488,8 +587,14 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Sunderland 🏴 vs Rennes 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Sunderland 🏴 vs Rennes 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Ligue1+ 3 France
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3055&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Sunderland 🏴 vs Rennes 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Sunderland 🏴 vs Rennes 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7053&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Sport TV4 Portugal
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=289&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7052&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹" tvg-name="16:00 ⚽ 🌍 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Bologna 🇮🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Arena Sport 2 Serbia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=430&redirect_stream=true&api_password=Milito22.
@@ -502,6 +607,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Everton 🏴 vs Lille 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Everton 🏴 vs Lille 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Sport TV7 Portugal
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=5&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Everton 🏴 vs Lille 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Everton 🏴 vs Lille 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7050&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Everton 🏴 vs Lille 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Everton 🏴 vs Lille 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", beIN Sports 2 Malaysia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=713&redirect_stream=true&api_password=Milito22.
@@ -527,6 +635,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Arena 1 Premium Serbia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=134&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7049&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", ESPN Argentina
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=149&redirect_stream=true&api_password=Milito22.
 
@@ -545,11 +656,17 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Newcastle United 🏴 vs Bayer Leverkusen 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=4113&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="9 - 30 ⚽ 🌍 Friendly : Leeds United 🏴 vs Augsburg 🇩🇪" tvg-name="17:36 9:30 ⚽ 🌍 Friendly : Leeds United 🏴 vs Augsburg 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7047&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", ESPN2 Mexico
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=926&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", DSports 2 Argentina
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=620&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7051&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪" tvg-name="16:00 ⚽ 🌍 Club Friendly : Tottenham Hotspur 🏴 vs Hoffenheim 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", VG+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3073&redirect_stream=true&api_password=Milito22.
@@ -559,6 +676,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Hull City 🏴 vs Nice 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Hull City 🏴 vs Nice 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Ligue1+ 4 France
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=192&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Hull City 🏴 vs Nice 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Hull City 🏴 vs Nice 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7048&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🌍 Club Friendly - Hull City 🏴 vs Nice 🇫🇷" tvg-name="16:00 ⚽ 🌍 Club Friendly : Hull City 🏴 vs Nice 🇫🇷 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", TV8,5
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1006&redirect_stream=true&api_password=Milito22.
@@ -1082,6 +1202,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇷🇺 Russia - Russian Premier League - CSKA Moskva 🇷🇺 vs Fakel 🇷🇺" tvg-name="15:15 ⚽ 🇷🇺 Russia - Russian Premier League : CSKA Moskva 🇷🇺 vs Fakel 🇷🇺 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Match Premier Russia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=573&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇷🇺 Russia - Russian Premier League - CSKA Moskva 🇷🇺 vs Fakel 🇷🇺" tvg-name="15:15 ⚽ 🇷🇺 Russia - Russian Premier League : CSKA Moskva 🇷🇺 vs Fakel 🇷🇺 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7005&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇷🇺 Russia - Russian Premier League - CSKA Moskva 🇷🇺 vs Fakel 🇷🇺" tvg-name="15:15 ⚽ 🇷🇺 Russia - Russian Premier League : CSKA Moskva 🇷🇺 vs Fakel 🇷🇺 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Arena 2 Premium Serbia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=135&redirect_stream=true&api_password=Milito22.
 
@@ -1100,14 +1223,26 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - 1. Division - HB Køge 🇩🇰 vs Hvidovre 🇩🇰" tvg-name="16:00 ⚽ 🇩🇰 Denmark - 1. Division : HB Køge 🇩🇰 vs Hvidovre 🇩🇰 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV3 Sport Denmark
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=809&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - 1. Division - HB Køge 🇩🇰 vs Hvidovre 🇩🇰" tvg-name="16:00 ⚽ 🇩🇰 Denmark - 1. Division : HB Køge 🇩🇰 vs Hvidovre 🇩🇰 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7046&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇳🇴 Norway - OBOS-ligaen - Ranheim 🇳🇴 vs Strømsgodset 🇳🇴" tvg-name="16:00 ⚽ 🇳🇴 Norway - OBOS-ligaen : Ranheim 🇳🇴 vs Strømsgodset 🇳🇴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV2 Sport Norway
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=812&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇳🇴 Norway - OBOS-ligaen - KFUM vs Lillestrøm" tvg-name="16:00 ⚽ 🇳🇴 Norway - OBOS-ligaen : KFUM vs Lillestrøm - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV 2 Play
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3066&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇳🇴 Norway - OBOS-ligaen - KFUM vs Lillestrøm" tvg-name="16:00 ⚽ 🇳🇴 Norway - OBOS-ligaen : KFUM vs Lillestrøm - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7042&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇳🇴 Norway Toppserien Women - Hønefoss BK 🇳🇴 vs SK Brann Kvinner 🇳🇴" tvg-name="16:00 ⚽ 🇳🇴 Norway Toppserien Women : Hønefoss BK 🇳🇴 vs SK Brann Kvinner 🇳🇴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV2 Sport 2 Norway
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=666&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇧🇪 Belgium Pro League - Patro Eisden 🇧🇪 vs Anderlecht U23 🇧🇪" tvg-name="16:00 ⚽ 🇧🇪 Belgium Pro League : Patro Eisden 🇧🇪 vs Anderlecht U23 🇧🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7044&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇧🇪 Belgium Challenger Pro League - Eupen 🇧🇪 vs Genk U23 🇧🇪" tvg-name="16:00 ⚽ 🇧🇪 Belgium Challenger Pro League : Eupen 🇧🇪 vs Genk U23 🇧🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7045&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇸🇰 Slovakia - 2. Futbalová Liga - Zlaté Moravce 🇸🇰 vs Žilina II 🇸🇰" tvg-name="16:00 ⚽ 🇸🇰 Slovakia - 2. Futbalová Liga : Zlaté Moravce 🇸🇰 vs Žilina II 🇸🇰 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", RTVS Sport Slovakia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=22&redirect_stream=true&api_password=Milito22.
@@ -1117,6 +1252,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Middlesbrough 🏴 vs Lincoln City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Middlesbrough 🏴 vs Lincoln City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sky Sports+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=36&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Middlesbrough 🏴 vs Lincoln City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Middlesbrough 🏴 vs Lincoln City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7010&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🏴 England - Championship - Middlesbrough 🏴 vs Lincoln City 🏴" tvg-name="16:00 ⚽ 🏴 England - Championship : Middlesbrough 🏴 vs Lincoln City 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", beIN Sports MAX 4 France
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=494&redirect_stream=true&api_password=Milito22.
@@ -1154,6 +1292,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - York City 🏴 vs Bristol Rovers 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : York City 🏴 vs Bristol Rovers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sky Sports Football UK
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=35&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - York City 🏴 vs Bristol Rovers 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : York City 🏴 vs Bristol Rovers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7032&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🏴 England - League Two - York City 🏴 vs Bristol Rovers 🏴" tvg-name="16:00 ⚽ 🏴 England - League Two : York City 🏴 vs Bristol Rovers 🏴 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Cosmote Sport 3 Greece
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=624&redirect_stream=true&api_password=Milito22.
 
@@ -1169,6 +1310,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ Belgium Pro League - Union Saint-Gilloise vs Zulte-Waregem" tvg-name="16:00 ⚽ Belgium Pro League : Union Saint-Gilloise vs Zulte-Waregem - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", DAZN Pro League 1 Belgium
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3049&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ Belgium Pro League - Union Saint-Gilloise vs Zulte-Waregem" tvg-name="16:00 ⚽ Belgium Pro League : Union Saint-Gilloise vs Zulte-Waregem - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7043&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇦🇪 United Arab Emirates - UAE Pro League - Al Dhafra 🇦🇪 vs Al Sharjah 🇦🇪" tvg-name="16:10 ⚽ 🇦🇪 United Arab Emirates - UAE Pro League : Al Dhafra 🇦🇪 vs Al Sharjah 🇦🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Abu Dhabi Sports 1
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=600&redirect_stream=true&api_password=Milito22.
 
@@ -1181,6 +1325,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eerste Divisie - Volendam 🇳🇱 vs Oss 🇳🇱" tvg-name="16:30 ⚽ 🇳🇱 Netherlands - Eerste Divisie : Volendam 🇳🇱 vs Oss 🇳🇱 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ESPN 1 NL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=379&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eerste Divisie - Volendam 🇳🇱 vs Oss 🇳🇱" tvg-name="16:30 ⚽ 🇳🇱 Netherlands - Eerste Divisie : Volendam 🇳🇱 vs Oss 🇳🇱 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7057&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇵🇹 Portugal - Primeira Liga - Alverca 🇵🇹 vs Estrela 🇵🇹" tvg-name="16:30 ⚽ 🇵🇹 Portugal - Primeira Liga : Alverca 🇵🇹 vs Estrela 🇵🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sport TV1 Portugal
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=49&redirect_stream=true&api_password=Milito22.
 
@@ -1189,6 +1336,12 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🇵🇹 Portugal - Primeira Liga - Alverca 🇵🇹 vs Estrela 🇵🇹" tvg-name="16:30 ⚽ 🇵🇹 Portugal - Primeira Liga : Alverca 🇵🇹 vs Estrela 🇵🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=4124&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇵🇹 Portugal - Primeira Liga - Alverca 🇵🇹 vs Estrela 🇵🇹" tvg-name="16:30 ⚽ 🇵🇹 Portugal - Primeira Liga : Alverca 🇵🇹 vs Estrela 🇵🇹 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7055&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ Hungary NB 1 - Ujpest vs MTK Budapest" tvg-name="16:30 ⚽ Hungary NB 1 : Ujpest vs MTK Budapest - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7056&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇩🇪 Germany - 3. Liga - Verl 🇩🇪 vs MSV Duisburg 🇩🇪" tvg-name="16:30 ⚽ 🇩🇪 Germany - 3. Liga : Verl 🇩🇪 vs MSV Duisburg 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Magenta Sport 307
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=23&redirect_stream=true&api_password=Milito22.
@@ -1199,11 +1352,17 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇩🇪 Germany - 3. Liga - Verl 🇩🇪 vs MSV Duisburg 🇩🇪" tvg-name="16:30 ⚽ 🇩🇪 Germany - 3. Liga : Verl 🇩🇪 vs MSV Duisburg 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Magenta Sport 307
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3099&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇩🇪 Germany - 3. Liga - Verl 🇩🇪 vs MSV Duisburg 🇩🇪" tvg-name="16:30 ⚽ 🇩🇪 Germany - 3. Liga : Verl 🇩🇪 vs MSV Duisburg 🇩🇪 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7058&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Willem II 🇳🇱 vs NEC 🇳🇱" tvg-name="16:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Willem II 🇳🇱 vs NEC 🇳🇱 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ESPN 3 NL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=888&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Willem II 🇳🇱 vs NEC 🇳🇱" tvg-name="16:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Willem II 🇳🇱 vs NEC 🇳🇱 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ESPN 3 NL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3088&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Willem II 🇳🇱 vs NEC 🇳🇱" tvg-name="16:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Willem II 🇳🇱 vs NEC 🇳🇱 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7059&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇪🇸 Spain - Segunda Division - FC Andorra 🇪🇸 vs Ceuta 🇪🇸" tvg-name="17:00 ⚽ 🇪🇸 Spain - Segunda Division : FC Andorra 🇪🇸 vs Ceuta 🇪🇸 - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", LALIGA TV Hypermotion
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=539&redirect_stream=true&api_password=Milito22.
@@ -2546,35 +2705,65 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="🎾 ATP Masters &amp; WTA 1000 - Cincinnati" tvg-name="01:00 🎾 ATP Masters &amp; WTA 1000 : Cincinnati - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾", Sportklub 1 Croatia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=101&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone" tvg-name="17:00 ATP - Singles: 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone" tvg-name="17:00 ATP - Singles: 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli" tvg-name="17:00 ATP - Singles: 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone" tvg-name="17:00 ATP - Singles: 🇧🇪 Alexander Blockx vs 🇦🇷 Mariano Navone - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi" tvg-name="17:00 ATP - Singles: 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli" tvg-name="17:00 ATP - Singles: 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík" tvg-name="18:30 ATP - Singles: 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli" tvg-name="17:00 ATP - Singles: 🇷🇸 Miomir Kecmanović vs 🇮🇹 Flavio Cobolli - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante" tvg-name="18:30 ATP - Singles: 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi" tvg-name="17:00 ATP - Singles: 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V." tvg-name="19:00 ATP - Singles: 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V. - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi" tvg-name="17:00 ATP - Singles: 🇪🇸 Martín Landaluce vs 🇮🇹 Matteo Arnaldi - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata" tvg-name="20:00 ATP - Singles: 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík" tvg-name="18:30 ATP - Singles: 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth" tvg-name="20:00 ATP - Singles: 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík" tvg-name="18:30 ATP - Singles: 🇮🇹 Mattia Bellucci vs 🇨🇿 Jiří Menšík - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur" tvg-name="20:00 ATP - Singles: 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante" tvg-name="18:30 ATP - Singles: 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="ATP - Singles - 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz" tvg-name="20:00 ATP - Singles: 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="ATP - Singles - 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante" tvg-name="18:30 ATP - Singles: 🇷🇸 Novak Djokovic vs 🇦🇷 Thiago Agustín Tirante - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V." tvg-name="19:00 ATP - Singles: 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V. - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V." tvg-name="19:00 ATP - Singles: 🇨🇱 Diego Vallejo vs 🇵🇱 Vacherot V. - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata" tvg-name="20:00 ATP - Singles: 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata" tvg-name="20:00 ATP - Singles: 🇮🇹 Luciano Darderi vs 🇦🇺 Rinky Hijikata - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth" tvg-name="20:00 ATP - Singles: 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth" tvg-name="20:00 ATP - Singles: 🇬🇧 Arthur Fery vs 🇦🇺 James Duckworth - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur" tvg-name="20:00 ATP - Singles: 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur" tvg-name="20:00 ATP - Singles: 🇫🇷 Quentin Halys vs 🇦🇺 Alex de Minaur - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz" tvg-name="20:00 ATP - Singles: 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="ATP - Singles - 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz" tvg-name="20:00 ATP - Singles: 🇺🇸 Tommy Paul vs 🇵🇱 Hubert Hurkacz - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="ATP - Singles - 🇩🇪 Jan-Lennard Struff vs 🇨🇱 Alejandro Tabilo" tvg-name="20:30 ATP - Singles: 🇩🇪 Jan-Lennard Struff vs 🇨🇱 Alejandro Tabilo - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
@@ -2594,35 +2783,65 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="ATP - Singles - 🇩🇪 Alexander Zverev vs 🇬🇧 Cameron Norrie" tvg-name="02:30 ATP - Singles: 🇩🇪 Alexander Zverev vs 🇬🇧 Cameron Norrie - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 ATP - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska" tvg-name="17:00 WTA - Singles: 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska" tvg-name="17:00 WTA - Singles: 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse" tvg-name="17:00 WTA - Singles: 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska" tvg-name="17:00 WTA - Singles: 🇪🇸 Cristina Bucșa vs 🇵🇱 Maja Chwalińska - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova" tvg-name="17:00 WTA - Singles: 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse" tvg-name="17:00 WTA - Singles: 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day" tvg-name="17:00 WTA - Singles: 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse" tvg-name="17:00 WTA - Singles: 🇵🇭 Alexandra Eala vs 🇷🇴 Gabriela Ruse - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková" tvg-name="18:30 WTA - Singles: 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova" tvg-name="17:00 WTA - Singles: 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina" tvg-name="18:30 WTA - Singles: 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova" tvg-name="17:00 WTA - Singles: 🇹🇷 Zeynep Sönmez vs 🇺🇸 Amanda Anisimova - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch" tvg-name="18:30 WTA - Singles: 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day" tvg-name="17:00 WTA - Singles: 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria" tvg-name="18:30 WTA - Singles: 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day" tvg-name="17:00 WTA - Singles: 🇨🇳 Zhang Shuai vs 🇺🇸 Kayla Day - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter" tvg-name="19:00 WTA - Singles: 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková" tvg-name="18:30 WTA - Singles: 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
-#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina" tvg-name="20:00 WTA - Singles: 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
-https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková" tvg-name="18:30 WTA - Singles: 🇷🇴 Sorana Cîrstea vs 🇨🇿 Nikola Bartůňková - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina" tvg-name="18:30 WTA - Singles: 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina" tvg-name="18:30 WTA - Singles: 🇺🇸 Caty McNally vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch" tvg-name="18:30 WTA - Singles: 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch" tvg-name="18:30 WTA - Singles: 🇱🇻 Jeļena Ostapenko vs 🇵🇱 Magdalena Fręch - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria" tvg-name="18:30 WTA - Singles: 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria" tvg-name="18:30 WTA - Singles: 🇷🇺 Diana Shnaider vs 🇩🇪 Tatjana Maria - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter" tvg-name="19:00 WTA - Singles: 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter" tvg-name="19:00 WTA - Singles: 🇨🇿 Linda Nosková vs 🇬🇧 Katie Boulter - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina" tvg-name="20:00 WTA - Singles: 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="WTA - Singles - 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina" tvg-name="20:00 WTA - Singles: 🇺🇸 Emma Navarro vs 🇺🇦 Anhelina Kalinina - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Tennis Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=576&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="WTA - Singles - 🇨🇭 Simona Waltert vs 🇺🇸 Jessica Pegula" tvg-name="20:30 WTA - Singles: 🇨🇭 Simona Waltert vs 🇺🇸 Jessica Pegula - 15/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis 🎾 WTA - Singles: Cincinnati (USA), Hard", Channel Not Listed #JustAsk
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=00&redirect_stream=true&api_password=Milito22.
