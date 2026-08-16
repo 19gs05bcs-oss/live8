@@ -996,6 +996,69 @@
         ],
         "Club Friendly \u26bd": [
             {
+                "event": "\u26bd \ud83c\udff4 Friendly : Tottenham Hotspur \ud83c\udff4 vs TSG Hoffenheim \ud83c\udde9\ud83c\uddea",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009",
+                        "channel_href": "/watch.php?id=7009",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd Club Friendly : Liverpool \ud83c\uddec\ud83c\udde7 vs Como \ud83c\uddee\ud83c\uddf9",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "LFCTV",
+                        "channel_id": "826",
+                        "channel_href": "/watch.php?id=826",
+                        "channel_title": "LFCTV",
+                        "data_ch": "lfctv"
+                    },
+                    {
+                        "channel_name": "Sky Sport Bundesliga 1",
+                        "channel_id": "558",
+                        "channel_href": "/watch.php?id=558",
+                        "channel_title": "Sky Sport Bundesliga 1",
+                        "data_ch": "sky sport bundesliga 1"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
+                        "channel_name": "Sky Sport Top Event DE",
+                        "channel_id": "556",
+                        "channel_href": "/watch.php?id=556",
+                        "channel_title": "Sky Sport Top Event DE",
+                        "data_ch": "sky sport top event de"
+                    },
+                    {
+                        "channel_name": "FOX Deportes",
+                        "channel_id": "643",
+                        "channel_href": "/watch.php?id=643",
+                        "channel_title": "FOX Deportes",
+                        "data_ch": "fox deportes"
+                    },
+                    {
+                        "channel_name": "Sport 1 Israel",
+                        "channel_id": "140",
+                        "channel_href": "/watch.php?id=140",
+                        "channel_title": "Sport 1 Israel",
+                        "data_ch": "sport 1 israel"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd Club Friendly : Nottingham Forest \ud83c\uddec\ud83c\udde7 vs Brest \ud83c\uddeb\ud83c\uddf7",
                 "time": "13:00",
                 "time_visible": "13:00",
@@ -1218,6 +1281,13 @@
                         "data_ch": "lfctv"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7004",
+                        "channel_href": "/watch.php?id=7004",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
                         "channel_name": "Sky Sport Bundesliga 1",
                         "channel_id": "558",
                         "channel_href": "/watch.php?id=558",
@@ -1390,6 +1460,20 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J.League : Tokushima Vortis \ud83c\uddef\ud83c\uddf5 vs Sagan Tosu \ud83c\uddef\ud83c\uddf5",
+                "time": "10:00",
+                "time_visible": "10:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7000",
+                        "channel_href": "/watch.php?id=7000",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukrainian Premier League : LNZ Cherkasy \ud83c\uddfa\ud83c\udde6 vs Chornomorets \ud83c\uddfa\ud83c\udde6",
                 "time": "10:00",
                 "time_visible": "10:00",
@@ -1400,6 +1484,13 @@
                         "channel_href": "/watch.php?id=151",
                         "channel_title": "UPL.TV",
                         "data_ch": "upl.tv"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1435,6 +1526,13 @@
                         "channel_href": "/watch.php?id=379",
                         "channel_title": "ESPN 1 NL",
                         "data_ch": "espn 1 nl"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7003",
+                        "channel_href": "/watch.php?id=7003",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1458,11 +1556,74 @@
                         "data_ch": "espn 2 nl"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7002",
+                        "channel_href": "/watch.php?id=7002",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "4104",
                         "channel_href": "/watch.php?id=4104",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division : Pite\u00e5 IF \ud83c\uddf8\ud83c\uddea vs Vasalunds IF \ud83c\uddf8\ud83c\uddea",
+                "time": "10:30",
+                "time_visible": "10:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7005",
+                        "channel_href": "/watch.php?id=7005",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Ulsan HD FC \ud83c\uddf0\ud83c\uddf7 vs Gangwon FC \ud83c\uddf0\ud83c\uddf7",
+                "time": "10:30",
+                "time_visible": "10:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7006",
+                        "channel_href": "/watch.php?id=7006",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Incheon United \ud83c\uddf0\ud83c\uddf7 vs Gimcheon Sangmu FC \ud83c\uddf0\ud83c\uddf7",
+                "time": "10:30",
+                "time_visible": "10:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007",
+                        "channel_href": "/watch.php?id=7007",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Bucheon FC 1995 \ud83c\uddf0\ud83c\uddf7 vs Jeonbuk Hyundai Motors \ud83c\uddf0\ud83c\uddf7",
+                "time": "10:30",
+                "time_visible": "10:30",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7008",
+                        "channel_href": "/watch.php?id=7008",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1477,6 +1638,20 @@
                         "channel_href": "/watch.php?id=1033",
                         "channel_title": "\u010cT Sport CZ",
                         "data_ch": "\u010ct sport cz"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : IFK V\u00e4rnamo \ud83c\uddf8\ud83c\uddea vs \u00d6stersunds FK \ud83c\uddf8\ud83c\uddea",
+                "time": "11:00",
+                "time_visible": "11:00",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010",
+                        "channel_href": "/watch.php?id=7010",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
@@ -1505,6 +1680,13 @@
                         "channel_href": "/watch.php?id=4",
                         "channel_title": "Magenta Sport 301",
                         "data_ch": "magenta sport 301"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7016",
+                        "channel_href": "/watch.php?id=7016",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sportklub 4 Croatia",
@@ -1540,6 +1722,13 @@
                         "channel_href": "/watch.php?id=127",
                         "channel_title": "Match TV Russia",
                         "data_ch": "match tv russia"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7012",
+                        "channel_href": "/watch.php?id=7012",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -1598,6 +1787,13 @@
                         "data_ch": "sky sport bundesliga 4"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7015",
+                        "channel_href": "/watch.php?id=7015",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
                         "channel_name": "Eleven Sports 2 Poland",
                         "channel_id": "72",
                         "channel_href": "/watch.php?id=72",
@@ -1645,6 +1841,13 @@
                         "channel_href": "/watch.php?id=946",
                         "channel_title": "Sky Sport Bundesliga 2",
                         "data_ch": "sky sport bundesliga 2"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7014",
+                        "channel_href": "/watch.php?id=7014",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     },
                     {
                         "channel_name": "Sky Sport Top Event DE",
@@ -1794,6 +1997,13 @@
                         "data_ch": "sky sport bundesliga 3"
                     },
                     {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7013",
+                        "channel_href": "/watch.php?id=7013",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
+                    },
+                    {
                         "channel_name": "Eleven Sports 3 Poland",
                         "channel_id": "428",
                         "channel_href": "/watch.php?id=428",
@@ -1862,6 +2072,13 @@
                         "channel_href": "/watch.php?id=3049",
                         "channel_title": "DAZN Pro League 1 Belgium",
                         "data_ch": "dazn pro league 1 belgium"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7011",
+                        "channel_href": "/watch.php?id=7011",
+                        "channel_title": "Event Stream",
+                        "data_ch": "event stream"
                     }
                 ]
             },
