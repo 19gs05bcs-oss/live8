@@ -188,6 +188,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇮🇪 Ireland Republic - FAI Cup - St Patrick's 🇮🇪 vs Shamrock Rovers 🇮🇪" tvg-name="15:00 ⚽ 🇮🇪 Ireland Republic - FAI Cup : St Patrick's 🇮🇪 vs Shamrock Rovers 🇮🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="🇮🇪 Ireland Republic ⚽", RTE 2 Ireland
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=365&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇮🇪 Ireland Republic - FAI Cup - St Patrick's 🇮🇪 vs Shamrock Rovers 🇮🇪" tvg-name="15:00 ⚽ 🇮🇪 Ireland Republic - FAI Cup : St Patrick's 🇮🇪 vs Shamrock Rovers 🇮🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="🇮🇪 Ireland Republic ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7029&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇮🇪 Ireland Republic - FAI Cup - Bohemians 🇮🇪 vs Longford Town 🇮🇪" tvg-name="20:00 ⚽ 🇮🇪 Ireland Republic - FAI Cup : Bohemians 🇮🇪 vs Longford Town 🇮🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="🇮🇪 Ireland Republic ⚽", LOITV
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=59&redirect_stream=true&api_password=Milito22.
 
@@ -271,6 +274,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ Club Friendly - Nottingham Forest 🇬🇧 vs Brest 🇫🇷" tvg-name="15:00 ⚽ Club Friendly : Nottingham Forest 🇬🇧 vs Brest 🇫🇷 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Ligue1+ France
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3051&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ Club Friendly - Nottingham Forest 🇬🇧 vs Brest 🇫🇷" tvg-name="15:00 ⚽ Club Friendly : Nottingham Forest 🇬🇧 vs Brest 🇫🇷 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7025&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ Club Friendly - Basel 🇨🇭 vs Barcelona 🇪🇸" tvg-name="16:30 ⚽ Club Friendly : Basel 🇨🇭 vs Barcelona 🇪🇸 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Club Friendly ⚽", Barca TV Spain
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=522&redirect_stream=true&api_password=Milito22.
@@ -620,14 +626,23 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - Super Liga - Nordsjælland 🇩🇰 vs Silkeborg 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - Super Liga : Nordsjælland 🇩🇰 vs Silkeborg 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV2 Sport X Denmark
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3069&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - Super Liga - Nordsjælland 🇩🇰 vs Silkeborg 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - Super Liga : Nordsjælland 🇩🇰 vs Silkeborg 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7021&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - Super Liga - OB 🇩🇰 vs Horsens 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - Super Liga : OB 🇩🇰 vs Horsens 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV3 Sport Denmark
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=809&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - Super Liga - OB 🇩🇰 vs Horsens 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - Super Liga : OB 🇩🇰 vs Horsens 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV3 Sport Denmark
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3068&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - Super Liga - OB 🇩🇰 vs Horsens 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - Super Liga : OB 🇩🇰 vs Horsens 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7020&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - 1. division - Vendsyssel 🇩🇰 vs AB 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - 1. division : Vendsyssel 🇩🇰 vs AB 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Viaplay Sports News Denmark
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=806&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇩🇰 Denmark - 1. division - Vendsyssel 🇩🇰 vs AB 🇩🇰" tvg-name="14:00 ⚽ 🇩🇰 Denmark - 1. division : Vendsyssel 🇩🇰 vs AB 🇩🇰 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7022&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇰🇿 Kazakhstan - Kazakhstan Premier League - Irtysh 🇰🇿 vs Tobol 🇰🇿" tvg-name="14:00 ⚽ 🇰🇿 Kazakhstan - Kazakhstan Premier League : Irtysh 🇰🇿 vs Tobol 🇰🇿 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Qazsport
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=8&redirect_stream=true&api_password=Milito22.
@@ -638,6 +653,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV4 Sportkanalen
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3075&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7019&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Brommapojkarna 🇸🇪 vs Örgryte 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=2006&redirect_stream=true&api_password=Milito22.
 
@@ -646,6 +664,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV4 Sport Live 2
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3072&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7018&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Degerfors 🇸🇪 vs IFK Göteborg 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=2004&redirect_stream=true&api_password=Milito22.
@@ -656,11 +677,20 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Djurgården 🇸🇪 vs AIK 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Djurgården 🇸🇪 vs AIK 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV4 Fotball
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3074&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Djurgården 🇸🇪 vs AIK 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Djurgården 🇸🇪 vs AIK 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7017&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden - Allsvenskan - Djurgården 🇸🇪 vs AIK 🇸🇪" tvg-name="14:00 ⚽ 🇸🇪 Sweden - Allsvenskan : Djurgården 🇸🇪 vs AIK 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Backup Stream
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=2005&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ Norway Eliteserien - Aalesund vs Vålerenga" tvg-name="14:00 ⚽ Norway Eliteserien : Aalesund vs Vålerenga - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV 2 Play Norway
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3067&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ Norway Eliteserien - Aalesund vs Vålerenga" tvg-name="14:00 ⚽ Norway Eliteserien : Aalesund vs Vålerenga - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7004&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇵🇱 Poland I Liga - ŁKS Łódź 🇵🇱 vs Bruk-Bet Termalica Nieciecza 🇵🇱" tvg-name="14:30 ⚽ 🇵🇱 Poland I Liga : ŁKS Łódź 🇵🇱 vs Bruk-Bet Termalica Nieciecza 🇵🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7005&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇬🇧 England - Championship - Watford 🇬🇧 vs Southampton 🇬🇧" tvg-name="14:30 ⚽ 🇬🇧 England - Championship : Watford 🇬🇧 vs Southampton 🇬🇧 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sky Sports Football UK
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=35&redirect_stream=true&api_password=Milito22.
@@ -670,6 +700,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="⚽ 🇬🇧 England - Championship - Watford 🇬🇧 vs Southampton 🇬🇧" tvg-name="14:30 ⚽ 🇬🇧 England - Championship : Watford 🇬🇧 vs Southampton 🇬🇧 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", CBS Sports Golazo USA
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=910&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇬🇧 England - Championship - Watford 🇬🇧 vs Southampton 🇬🇧" tvg-name="14:30 ⚽ 🇬🇧 England - Championship : Watford 🇬🇧 vs Southampton 🇬🇧 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7001&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇬🇧 England - Championship - Watford 🇬🇧 vs Southampton 🇬🇧" tvg-name="14:30 ⚽ 🇬🇧 England - Championship : Watford 🇬🇧 vs Southampton 🇬🇧 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", beIN Sports MAX 4 France
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=494&redirect_stream=true&api_password=Milito22.
@@ -722,6 +755,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱" tvg-name="14:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ESPN 1 NL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=379&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱" tvg-name="14:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7003&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱" tvg-name="14:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Feyenoord 🇳🇱 vs Go Ahead Eagles 🇳🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sportdigital FUSSBALL DE
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=571&redirect_stream=true&api_password=Milito22.
 
@@ -767,14 +803,23 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Twente 🇳🇱 vs PEC Zwolle 🇳🇱" tvg-name="14:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Twente 🇳🇱 vs PEC Zwolle 🇳🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ESPN 3 NL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3089&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇳🇱 Netherlands - Eredivisie - Twente 🇳🇱 vs PEC Zwolle 🇳🇱" tvg-name="14:30 ⚽ 🇳🇱 Netherlands - Eredivisie : Twente 🇳🇱 vs PEC Zwolle 🇳🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7002&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇺🇦 Ukrainian Premier League - Metalist 1925 Kharkiv 🇺🇦 vs Shakhtar Donetsk 🇺🇦" tvg-name="14:30 ⚽ 🇺🇦 Ukrainian Premier League : Metalist 1925 Kharkiv 🇺🇦 vs Shakhtar Donetsk 🇺🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", UPL.TV
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=151&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇺🇦 Ukrainian Premier League - Metalist 1925 Kharkiv 🇺🇦 vs Shakhtar Donetsk 🇺🇦" tvg-name="14:30 ⚽ 🇺🇦 Ukrainian Premier League : Metalist 1925 Kharkiv 🇺🇦 vs Shakhtar Donetsk 🇺🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7006&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇨🇿 Czech Republic - 1. League Women - Slovácko 🇨🇿 vs Ostrava 🇨🇿" tvg-name="14:30 ⚽ 🇨🇿 Czech Republic - 1. League Women : Slovácko 🇨🇿 vs Ostrava 🇨🇿 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", ČT Sport CZ
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1033&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇵🇱 Poland - Ekstraklasa - Motor Lublin 🇵🇱 vs Katowice 🇵🇱" tvg-name="14:45 ⚽ 🇵🇱 Poland - Ekstraklasa : Motor Lublin 🇵🇱 vs Katowice 🇵🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Canal+ Sport 3 Poland
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=259&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇵🇱 Poland - Ekstraklasa - Motor Lublin 🇵🇱 vs Katowice 🇵🇱" tvg-name="14:45 ⚽ 🇵🇱 Poland - Ekstraklasa : Motor Lublin 🇵🇱 vs Katowice 🇵🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7007&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇵🇱 Poland - Ekstraklasa - Motor Lublin 🇵🇱 vs Katowice 🇵🇱" tvg-name="14:45 ⚽ 🇵🇱 Poland - Ekstraklasa : Motor Lublin 🇵🇱 vs Katowice 🇵🇱 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Arena Sport 3 Croatia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=434&redirect_stream=true&api_password=Milito22.
@@ -785,14 +830,44 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="⚽ 🇿🇼 Zimbabwe - Premier Soccer League - Chippa United 🇿🇦 vs Orlando Pirates 🇿🇦" tvg-name="14:55 ⚽ 🇿🇼 Zimbabwe - Premier Soccer League : Chippa United 🇿🇦 vs Orlando Pirates 🇿🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", SuperSport PSL
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=413&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇿🇼 Zimbabwe - Premier Soccer League - Chippa United 🇿🇦 vs Orlando Pirates 🇿🇦" tvg-name="14:55 ⚽ 🇿🇼 Zimbabwe - Premier Soccer League : Chippa United 🇿🇦 vs Orlando Pirates 🇿🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7008&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 Scottish League Cup - Hibernian 🏴 vs Partick Thistle 🏴" tvg-name="15:00 ⚽ 🏴 Scottish League Cup : Hibernian 🏴 vs Partick Thistle 🏴 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7009&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 Scottish League Cup - Heart of Midlothian 🏴 vs Inverness Caledonian Thistle 🏴" tvg-name="15:00 ⚽ 🏴 Scottish League Cup : Heart of Midlothian 🏴 vs Inverness Caledonian Thistle 🏴 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7010&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🏴 Scottish League Cup - Stenhousemuir 🏴 vs Motherwell 🏴" tvg-name="15:00 ⚽ 🏴 Scottish League Cup : Stenhousemuir 🏴 vs Motherwell 🏴 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7023&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇵🇾 Paraguay Primera División - Cerro Porteño 🇵🇾 vs San Lorenzo 🇵🇾" tvg-name="15:00 ⚽ 🇵🇾 Paraguay Primera División : Cerro Porteño 🇵🇾 vs San Lorenzo 🇵🇾 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7026&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇸🇪 Sweden Women Allsvenskan - IFK Norrköping Women 🇸🇪 vs Kristianstads DFF Women 🇸🇪" tvg-name="15:00 ⚽ 🇸🇪 Sweden Women Allsvenskan : IFK Norrköping Women 🇸🇪 vs Kristianstads DFF Women 🇸🇪 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7027&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ Finland Veikkaus liiga - HJK vs Jaro" tvg-name="15:00 ⚽ Finland Veikkaus liiga : HJK vs Jaro - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Ruutu+
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3077&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ Finland Veikkaus liiga - HJK vs Jaro" tvg-name="15:00 ⚽ Finland Veikkaus liiga : HJK vs Jaro - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7030&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇨🇿 Czech Republic - 1. liga - Baník Ostrava 🇨🇿 vs Artis 🇨🇿" tvg-name="15:00 ⚽ 🇨🇿 Czech Republic - 1. liga : Baník Ostrava 🇨🇿 vs Artis 🇨🇿 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Oneplay Sport 3 CZ
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=1029&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="⚽ 🇨🇿 Czech Republic - 1. liga - Baník Ostrava 🇨🇿 vs Artis 🇨🇿" tvg-name="15:00 ⚽ 🇨🇿 Czech Republic - 1. liga : Baník Ostrava 🇨🇿 vs Artis 🇨🇿 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7031&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇲🇾 ASEAN Championship - Malaysia 🇲🇾 vs Vietnam 🇻🇳" tvg-name="15:00 ⚽ 🇲🇾 ASEAN Championship : Malaysia 🇲🇾 vs Vietnam 🇻🇳 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7032&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="⚽ 🇱🇻 Latvia - Latvijas kauss - Riga 🇱🇻 vs Metta / LU 🇱🇻" tvg-name="15:00 ⚽ 🇱🇻 Latvia - Latvijas kauss : Riga 🇱🇻 vs Metta / LU 🇱🇻 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", TV4 Latvia
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=9&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="⚽ 🇱🇻 Latvia - Latvijas kauss - Riga 🇱🇻 vs Metta / LU 🇱🇻" tvg-name="15:00 ⚽ 🇱🇻 Latvia - Latvijas kauss : Riga 🇱🇻 vs Metta / LU 🇱🇻 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Event Stream
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7028&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="⚽ 🇵🇹 Portugal - Segunda liga - Amarante 🇵🇹 vs Lusitania FC Lourosa 🇵🇹" tvg-name="15:00 ⚽ 🇵🇹 Portugal - Segunda liga : Amarante 🇵🇹 vs Lusitania FC Lourosa 🇵🇹 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events ⚽", Sport TV+ Portugal
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=10&redirect_stream=true&api_password=Milito22.
@@ -2867,6 +2942,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="🏎️ British GT Championship - Race 1 - Snetterton Circuit" tvg-name="12:30 🏎️ British GT Championship : Race 1 - Snetterton Circuit - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Sky Sport F1 DE
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=274&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MX2 | Race 1 - 🏍️ World Championship Sweden | MX2 | Race 1" tvg-name="13:00 🏍️ World Championship Sweden | MX2 | Race 1 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", TNT Sport Feed
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=68&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MX2 | Race 1 - 🏍️ World Championship Sweden | MX2 | Race 1" tvg-name="13:00 🏍️ World Championship Sweden | MX2 | Race 1 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Automoto La chaîne
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=951&redirect_stream=true&api_password=Milito22.
 
@@ -2914,6 +2992,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="🏍️ BSB | Round 7 | Thruxton Day 2 | Race Only - 🏍️ BSB | Round 7 | Thruxton Day 2 | Race Only" tvg-name="14:00 🏍️ BSB | Round 7 | Thruxton Day 2 | Race Only - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Eurosport 3 Poland
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MXGP | Race 1 - 🏍️ World Championship Sweden | MXGP | Race 1" tvg-name="14:00 🏍️ World Championship Sweden | MXGP | Race 1 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", TNT Sport Feed
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=68&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MXGP | Race 1 - 🏍️ World Championship Sweden | MXGP | Race 1" tvg-name="14:00 🏍️ World Championship Sweden | MXGP | Race 1 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Automoto La chaîne
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=951&redirect_stream=true&api_password=Milito22.
@@ -2993,6 +3074,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 #EXTINF:-1 tvg-id="🏎️ Barum Czech Rally Zlín - Stage 13" tvg-name="16:00 🏎️ Barum Czech Rally Zlín : Stage 13 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", TV4 Motor Sweden
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=3076&redirect_stream=true&api_password=Milito22.
 
+#EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MX2 | Race 2 - 🏍️ World Championship Sweden | MX2 | Race 2" tvg-name="16:00 🏍️ World Championship Sweden | MX2 | Race 2 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", TNT Sport Feed
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=68&redirect_stream=true&api_password=Milito22.
+
 #EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MX2 | Race 2 - 🏍️ World Championship Sweden | MX2 | Race 2" tvg-name="16:00 🏍️ World Championship Sweden | MX2 | Race 2 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", CBS Sports Network
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=308&redirect_stream=true&api_password=Milito22.
 
@@ -3004,6 +3088,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="🏍️ Speedway - PGE Ekstraliga : ORLEN OIL Motor Lublin vs FOGO Unia Leszno" tvg-name="16:45 🏍️ Speedway: PGE Ekstraliga : ORLEN OIL Motor Lublin vs FOGO Unia Leszno - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Canal+ Sport Poland
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=48&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MXGP | Race 2 - 🏍️ World Championship Sweden | MXGP | Race 2" tvg-name="17:00 🏍️ World Championship Sweden | MXGP | Race 2 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", TNT Sport Feed
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=68&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="🏍️ World Championship Sweden | MXGP | Race 2 - 🏍️ World Championship Sweden | MXGP | Race 2" tvg-name="17:00 🏍️ World Championship Sweden | MXGP | Race 2 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport 🏎️🏁", Automoto La chaîne
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=951&redirect_stream=true&api_password=Milito22.
@@ -3850,6 +3937,9 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dl
 
 #EXTINF:-1 tvg-id="🏉 🇿🇦 Currie Cup - Bulls 🇿🇦 vs Cheetahs 🇿🇦" tvg-name="15:00 🏉 🇿🇦 Currie Cup : Bulls 🇿🇦 vs Cheetahs 🇿🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union 🏉", Sky Sport 5 NZ
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=592&redirect_stream=true&api_password=Milito22.
+
+#EXTINF:-1 tvg-id="🏉 🇿🇦 Currie Cup - Bulls 🇿🇦 vs Cheetahs 🇿🇦" tvg-name="15:00 🏉 🇿🇦 Currie Cup : Bulls 🇿🇦 vs Cheetahs 🇿🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union 🏉", Event Streams
+https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=7024&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1 tvg-id="🏉 🇿🇦 Currie Cup - Bulls 🇿🇦 vs Cheetahs 🇿🇦" tvg-name="15:00 🏉 🇿🇦 Currie Cup : Bulls 🇿🇦 vs Cheetahs 🇿🇦 - 16/08/26" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union 🏉", SuperSport Rugby
 https://proxyfacilissimo.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=421&redirect_stream=true&api_password=Milito22.
