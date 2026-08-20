@@ -547,6 +547,48 @@
         ],
         "UEFA Europa League \u26bd": [
             {
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Cup : Selimbar \ud83c\uddf7\ud83c\uddf4 vs FC Botosani \ud83c\uddf7\ud83c\uddf4",
+                "time": "14:30",
+                "time_visible": "14:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105",
+                        "channel_href": "/watch.php?id=105",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Ykkosliiga : KaPa \ud83c\uddeb\ud83c\uddee vs Jippo \ud83c\uddeb\ud83c\uddee",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77",
+                        "channel_href": "/watch.php?id=77",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Xorazm Urganch \ud83c\uddfa\ud83c\uddff vs Lokomotiv Tashkent \ud83c\uddfa\ud83c\uddff",
+                "time": "15:00",
+                "time_visible": "15:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86",
+                        "channel_href": "/watch.php?id=86",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf0\ud83c\uddff UEFA Europa League : Kairat \ud83c\uddf0\ud83c\uddff vs Anderlecht \ud83c\udde7\ud83c\uddea",
                 "time": "15:00",
                 "time_visible": "15:00",
@@ -557,6 +599,13 @@
                         "channel_href": "/watch.php?id=1",
                         "channel_title": "QazSport",
                         "data_ch": "qazsport"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "106",
+                        "channel_href": "/watch.php?id=106",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -613,6 +662,41 @@
                         "channel_href": "/watch.php?id=4103",
                         "channel_title": "Backup Stream",
                         "data_ch": "backup stream"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "109",
+                        "channel_href": "/watch.php?id=109",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddec\ud83c\uddee UEFA Conference League : Lincoln Red Imps \ud83c\uddec\ud83c\uddee vs Larne \ud83c\uddec\ud83c\udde7",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "151",
+                        "channel_href": "/watch.php?id=151",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee UEFA Conference League : Inter Turku \ud83c\uddeb\ud83c\uddee vs FC Copenhagen \ud83c\udde9\ud83c\uddf0",
+                "time": "16:00",
+                "time_visible": "16:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152",
+                        "channel_href": "/watch.php?id=152",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -641,6 +725,13 @@
                         "channel_href": "/watch.php?id=3061",
                         "channel_title": "Polsat Sport Premium 1 Poland",
                         "data_ch": "polsat sport premium 1 poland"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "110",
+                        "channel_href": "/watch.php?id=110",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1282,6 +1373,20 @@
                         "data_ch": "stv 1 slovenia"
                     }
                 ]
+            },
+            {
+                "event": "\u26bd \ud83c\udded\ud83c\uddf7 UEFA Conference League : HNK Hajduk Split \ud83c\udded\ud83c\uddf7 vs Rak\u00f3w Cz\u0119stochowa \ud83c\uddf5\ud83c\uddf1",
+                "time": "19:00",
+                "time_visible": "19:00",
+                "channels": [
+                    {
+                        "channel_name": "Hajduk TV Croatia",
+                        "channel_id": "158",
+                        "channel_href": "/watch.php?id=158",
+                        "channel_title": "Hajduk TV Croatia",
+                        "data_ch": "hajduk tv croatia"
+                    }
+                ]
             }
         ],
         "All Soccer Events \u26bd": [
@@ -1331,6 +1436,27 @@
                         "channel_href": "/watch.php?id=583",
                         "channel_title": "Prima Sport 1 Romania",
                         "data_ch": "prima sport 1 romania"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55",
+                        "channel_href": "/watch.php?id=55",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Bunyodkor \ud83c\uddfa\ud83c\uddff vs Kokand 1912 \ud83c\uddfa\ud83c\uddff",
+                "time": "14:00",
+                "time_visible": "14:00",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69",
+                        "channel_href": "/watch.php?id=69",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -1370,6 +1496,34 @@
                 ]
             },
             {
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Young Africans \ud83c\uddf9\ud83c\uddff vs Coastal Union \ud83c\uddf9\ud83c\uddff",
+                "time": "15:30",
+                "time_visible": "15:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "107",
+                        "channel_href": "/watch.php?id=107",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\udde7\ud83c\uddfe Belarus Vysshaya Liga : Dinamo Minsk \ud83c\udde7\ud83c\uddfe vs Torpedo-BelAZ Zhodino \ud83c\udde7\ud83c\uddfe",
+                "time": "15:45",
+                "time_visible": "15:45",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "108",
+                        "channel_href": "/watch.php?id=108",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
                 "event": "\u26bd \ud83c\uddf3\ud83c\uddf4 Norway - Toppserien : Rosenborg \ud83c\uddf3\ud83c\uddf4 vs Lyn \ud83c\uddf3\ud83c\uddf4",
                 "time": "16:00",
                 "time_visible": "16:00",
@@ -1394,6 +1548,62 @@
                         "channel_href": "/watch.php?id=540",
                         "channel_title": "Canal 11 Portugal",
                         "data_ch": "canal 11 portugal"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Vasalund \ud83c\uddf8\ud83c\uddea vs IFK Norrk\u00f6ping \ud83c\uddf8\ud83c\uddea",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153",
+                        "channel_href": "/watch.php?id=153",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : Pite\u00e5 IF FF \ud83c\uddf8\ud83c\uddea vs AIK \ud83c\uddf8\ud83c\uddea",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154",
+                        "channel_href": "/watch.php?id=154",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : H\u00e4ssleholms IF \ud83c\uddf8\ud83c\uddea vs Landskrona BoIS \ud83c\uddf8\ud83c\uddea",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155",
+                        "channel_href": "/watch.php?id=155",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
+                    }
+                ]
+            },
+            {
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Svenska Cupen : FC Arlanda \ud83c\uddf8\ud83c\uddea vs \u00d6stersunds FK \ud83c\uddf8\ud83c\uddea",
+                "time": "16:30",
+                "time_visible": "16:30",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156",
+                        "channel_href": "/watch.php?id=156",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     }
                 ]
             },
@@ -4992,6 +5202,20 @@
                         "data_ch": "tennis stream"
                     },
                     {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
                         "channel_name": "Tennis HD Stream",
                         "channel_id": "1071",
                         "channel_href": "/watch.php?id=1071",
@@ -5023,6 +5247,13 @@
                         "channel_name": "Tennis Stream",
                         "channel_id": "1559",
                         "channel_href": "/watch.php?id=1559",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
                     },
@@ -5158,6 +5389,20 @@
                         "channel_href": "/watch.php?id=1566",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501",
+                        "channel_href": "/watch.php?id=1501",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524",
+                        "channel_href": "/watch.php?id=1524",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
                     }
                 ]
             },
@@ -5170,6 +5415,13 @@
                         "channel_name": "Tennis Stream",
                         "channel_id": "1567",
                         "channel_href": "/watch.php?id=1567",
+                        "channel_title": "Tennis Stream",
+                        "data_ch": "tennis stream"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507",
+                        "channel_href": "/watch.php?id=1507",
                         "channel_title": "Tennis Stream",
                         "data_ch": "tennis stream"
                     },
@@ -5427,6 +5679,13 @@
                         "channel_href": "/watch.php?id=785",
                         "channel_title": "Sky Sports Golf DE",
                         "data_ch": "sky sports golf de"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68",
+                        "channel_href": "/watch.php?id=68",
+                        "channel_title": "Event SD Stream",
+                        "data_ch": "event sd stream"
                     },
                     {
                         "channel_name": "ESPN USA",
